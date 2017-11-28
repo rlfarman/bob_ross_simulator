@@ -1,4 +1,4 @@
-from rossquotes.py import ross_quotes
+from rossquotes import ross_quotes
 
 bob_picture = '''8888O8OOOOOOOOOOZOZZZOZZZZZZ$$$$$$$$$ZZZZ$Z$$$$$$$$$$$Z$$Z$$$Z$Z$$$$$ZZ$Z$Z$$ZZ$
 88888O88OOOOOOZZOZOZZZZ$$$$$ZZZZOOOOOOOOO8ZOOZZ$Z$$$$$7$$Z7$$$$$$$$$$Z$7$$$$$Z$Z
@@ -52,7 +52,7 @@ OOO$~~::::,::,,,,,,....,,,~?+=+?+++I++I+I++I??I?I7?7O8O$I$Z7?++++=~====++++7I7I7
 ,.,,,,,,,,,,,,..,,,,:,,:=::,,......,I$:7I7I+7ZI+?=+???IIIIIIIIIIIII777$7OOOZ7=~~
 ,,,,,,,.,,,.,,...,,,,:,~~::,,.....,+I7$IIZ$+?O7I?==~=IIIIIIIIIIIIIII7777ZOOZ$?=~'''
 
- bob_phrases = ross_quotes #[
+bob_phrases = ross_quotes #[
 #    "Let's get crazy.",
 #    "We don't make mistakes, just happy little accidents.",
 #    "Let's build a happy little painting.",
