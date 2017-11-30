@@ -1,6 +1,6 @@
 # Bob Ross Simulation Proposal
 
-## Jessie Bulson-Lewis, Richard Farman, Zach Turner
+## Jesse Bulson-Lewis, Richard Farman, Zach Turner
 
 Our goal is to make a program capable of simulating the generation of paintings
 based on those of the esteemed Bob Ross. The idea is to generate new paintings 
@@ -32,9 +32,9 @@ generated image.
 We'll work together to figure out how to repurpose a Markov Chain for the context
 of a dataset with true or false (0 or 1) values. Richard has experience with AI
 and NLP, so he will determine the methods we'll be using in our program.
-Jessie and Zach will help implement the algorithm.
+Jesse and Zach will help implement the algorithm.
 
-Jessie and Zach will create a simple image generator that places elements on a canvas.
+Jesse and Zach will create a simple image generator that places elements on a canvas.
 Richard will find art assets to use for the generator.
 
 The final step (4) requires a powerful machine with lots of dependencies to set up, as
