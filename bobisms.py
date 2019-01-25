@@ -1,3 +1,5 @@
+from rossquotes import quote_list
+
 bob_picture = '''8888O8OOOOOOOOOOZOZZZOZZZZZZ$$$$$$$$$ZZZZ$Z$$$$$$$$$$$Z$$Z$$$Z$Z$$$$$ZZ$Z$Z$$ZZ$
 88888O88OOOOOOZZOZOZZZZ$$$$$ZZZZOOOOOOOOO8ZOOZZ$Z$$$$$7$$Z7$$$$$$$$$$Z$7$$$$$Z$Z
 888888OOOOOOOOOOZZOZOOZZZZZOZZOZZOZOOO8OOOO8O8O8O8OZOZOZ$$7$$$$$$$$$$$$$$$$$$Z$$
@@ -50,21 +52,7 @@ OOO$~~::::,::,,,,,,....,,,~?+=+?+++I++I+I++I??I?I7?7O8O$I$Z7?++++=~====++++7I7I7
 ,.,,,,,,,,,,,,..,,,,:,,:=::,,......,I$:7I7I+7ZI+?=+???IIIIIIIIIIIII777$7OOOZ7=~~
 ,,,,,,,.,,,.,,...,,,,:,~~::,,.....,+I7$IIZ$+?O7I?==~=IIIIIIIIIIIIIII7777ZOOZ$?=~'''
 
-bob_phrases = [
-    "Let's get crazy.",
-    "We don't make mistakes, just happy little accidents.",
-    "Let's build a happy little painting.",
-    "I believe talent is just a pursued interest. Anybody can do what I do.",
-    "In painting, you have unlimited power.",
-    "You know me, I gotta put in a big tree.",
-    "Any way you want it to be, that's just right.",
-    "We don't know where it goes. We don't really care.",
-    "People might look at you a bit funny, but it's okay.",
-    "Artists are allowed to be a bit different.",
-    "The secret to doing anything is believing that you can do it.",
-    "We're gonna make some big decisions in our little world.",
-    "Even if you've never painted before, this one you can do.",
-]
+bob_phrases = quote_list
 
 background = [
     "CLOUDS",
